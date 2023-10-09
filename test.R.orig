@@ -1,0 +1,16 @@
+# Test 
+setwd("/Users/audunhoug/Desktop/BAN400/Git/")
+
+<<<<<<< HEAD
+x <-"testing"
+y <- "Demos"
+
+
+# important feature
+
+# new feature 
+=======
+# important feature
+
+# alternative developement
+>>>>>>> alternative-develop
