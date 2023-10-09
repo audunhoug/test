@@ -12,5 +12,6 @@ y <- "Demos"
 
 # important feature
 
-# alternative developement
+# alternative development
 
+# some more work for github
